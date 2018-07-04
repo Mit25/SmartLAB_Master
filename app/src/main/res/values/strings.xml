@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Masterapp</string>
+    <string name="ip">Enter the Ip Adress of Pc</string>
+    <string name="port">Enter the Port number</string>
+</resources>
