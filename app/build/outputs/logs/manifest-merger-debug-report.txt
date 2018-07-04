@@ -7,7 +7,6 @@ INJECTED from /home/mit25/Android Projects/Master_app-master/app/src/main/Androi
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/mit25/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d6ae3eb5217dbc7726bc6b27d78f826/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8ec44ec7eb14258acab160dccab801e8/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/bc24ce86fe800b9fd77fd747eff002c6/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.volley:volley:1.0.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/09755e871538f010ba02444fbeff3433/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/0c5dba4aa04a3e142c96886a423e6ce4/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/05b2d0f043cdc115c756f8d95ba93a8d/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4fe09364abcb384da5a7443fad4650c1/AndroidManifest.xml:17:1-28:12
@@ -45,8 +44,6 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/mit25
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/mit25/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6d6ae3eb5217dbc7726bc6b27d78f826/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8ec44ec7eb14258acab160dccab801e8/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8ec44ec7eb14258acab160dccab801e8/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.volley:volley:1.0.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/09755e871538f010ba02444fbeff3433/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/09755e871538f010ba02444fbeff3433/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/0c5dba4aa04a3e142c96886a423e6ce4/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/0c5dba4aa04a3e142c96886a423e6ce4/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/05b2d0f043cdc115c756f8d95ba93a8d/AndroidManifest.xml:22:5-26:19
@@ -101,8 +98,6 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] /home/mit25/.gradle/caches
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8ec44ec7eb14258acab160dccab801e8/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/bc24ce86fe800b9fd77fd747eff002c6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/bc24ce86fe800b9fd77fd747eff002c6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.volley:volley:1.0.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/09755e871538f010ba02444fbeff3433/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.0.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/09755e871538f010ba02444fbeff3433/AndroidManifest.xml:7:5-43
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/0c5dba4aa04a3e142c96886a423e6ce4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/mit25/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/0c5dba4aa04a3e142c96886a423e6ce4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/mit25/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/05b2d0f043cdc115c756f8d95ba93a8d/AndroidManifest.xml:20:5-44
