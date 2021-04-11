@@ -1,4 +1,0 @@
-#Thu Jul 05 01:24:30 IST 2018
-base.0=/home/mit25/Android Projects/Master_app-master/app/build/intermediates/transforms/dexMerger/debug/26
-path.0=classes.dex
-renamed.0=classes.dex
